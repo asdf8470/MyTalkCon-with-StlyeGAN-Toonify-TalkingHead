@@ -2,7 +2,7 @@
  <h2>프로젝트 개요</h2>
         <table class="summary">
             <tr>
-              <th>기간</th>
+              <th>기간</th> 
               <td>2023.12.00 ~ 2023.00.00 (약 ~주)</td>
             </tr>
             <tr>
